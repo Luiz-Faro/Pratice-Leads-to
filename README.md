@@ -19,8 +19,6 @@ Agora, vamos falar sobre o que você encontrará neste repositório. Aqui, reuni
 
 Navegue pelos diretórios, mergulhe nos códigos e divirta-se resolvendo os exercícios propostos. Fique à vontade para explorar, fazer perguntas e compartilhar suas próprias soluções. Afinal, a Ciência de Dados é um mundo colaborativo, e estamos aqui para aprender juntos!
 
-Lembre-se: enquanto você explora e se diverte, esteja preparado para encontrar erros, bugs e algumas peculiaridades dos dados. Mas não se preocupe, é tudo parte da aventura. Abra espaço para a curiosidade, porque é assim que grandes descobertas são feitas.
-
 Agora, arme-se com seu conhecimento de Python, prepare-se para decifrar os dados e embarque nesta jornada épica em busca de insights brilhantes e diversão garantida!
 
 <i class="fas fa-rocket"></i> Que os dados estejam com você! <i class="fas fa-rocket"></i>
